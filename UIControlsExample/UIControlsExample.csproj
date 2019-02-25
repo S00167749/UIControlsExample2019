@@ -73,7 +73,7 @@
       <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
     </Reference>
     <Reference Include="System.Web.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.Chart.Controls.4.7.2046\lib\net35\System.Web.DataVisualization.dll</HintPath>
+      <HintPath>..\..\..\..\..\Downloads\System.Web.DataVisualization\System.Web.DataVisualization.dll</HintPath>
       <Private>True</Private>
       <Private>True</Private>
     </Reference>
